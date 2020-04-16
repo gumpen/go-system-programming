@@ -1,0 +1,3 @@
+hogehoge
+num:100
+float:1.234500
